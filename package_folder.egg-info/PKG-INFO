@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: package_folder
+Version: 0.0.1
+Requires-Dist: scikit-learn==1.5.2
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
