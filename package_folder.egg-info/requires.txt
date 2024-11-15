@@ -1,3 +1,5 @@
 scikit-learn==1.5.2
 fastapi
 uvicorn
+xgboost
+pandas
