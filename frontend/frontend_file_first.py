@@ -21,12 +21,12 @@ params = {
     'bedrooms': bedrooms,
     'bathrooms': bathrooms,
     'living_area': living_area,
-    'surface_of_the_plot ': surface_of_the_plot,
+    'surface_of_the_plot': surface_of_the_plot,
     'postal': postal,
 }
 
-#response = requests.get(url, params=params).json()
-response = 350000
+response = requests.get(url, params=params).json()
+#response = 350000
 
 st.markdown("""
 
